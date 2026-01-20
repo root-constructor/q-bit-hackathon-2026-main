@@ -4,11 +4,11 @@ const SponsorsSection = () => {
   const sponsors = [
     {
       name: 'Future Summit',
-      logo: '/images/future summit.svg',
+      logo: '/images/future-summit.svg',
     },
     {
       name: 'IEEE JAIN Emblem',
-      logo: '/images/sb.png',
+      logo: '/images/ieee-jain-emblem.png',
     },
   ];
 

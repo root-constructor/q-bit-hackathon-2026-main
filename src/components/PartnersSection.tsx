@@ -4,15 +4,15 @@ const PartnersSection = () => {
   const partners = [
     {
       name: 'JAIN University',
-      logo: '/images/JAIN logo.PNG',
+      logo: '/images/jain-logo.png',
     },
     {
       name: 'IEEE MB Tag',
-      logo: '/images/ieee mb tag blue pne.png',
+      logo: '/images/ieee-mb-tag-blue-pne.png',
     },
     {
       name: 'IEEE Sensors Council',
-      logo: '/images/IEEE_Sensors_Council_Logo.png',
+      logo: '/images/ieee-sensors-council-logo.png',
     },
   ];
 
