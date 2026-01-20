@@ -8,7 +8,7 @@ const SponsorsSection = () => {
     },
     {
       name: 'IEEE JAIN Emblem',
-      logo: '/images/sb                                                 .png',
+      logo: '/images/sb.png',
     },
   ];
 
